@@ -89,7 +89,7 @@ BEGIN
         5, -- Positive amount for initial grant
         v_new_credits,
         'earned', -- ENUM status
-        'Initial credit grant - Welcome to SkillSwap!'
+          'Initial credit grant - Welcome to Skill Swap!'
       );
       
       -- Update profiles.credits balance

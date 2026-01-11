@@ -21,7 +21,7 @@ export default function LandingPage() {
               </div>
               
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-foreground mb-6">
-                SkillSwap
+                Skill Swap
               </h1>
             </motion.div>
 

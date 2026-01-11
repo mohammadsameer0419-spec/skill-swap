@@ -127,7 +127,7 @@ export function DashboardLayout({ children }: DashboardLayoutProps) {
                 <div className="max-w-7xl mx-auto px-4 py-8">
                     <div className="text-center py-16">
                         <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">
-                            🎉 Welcome to SkillSwap! 🎉
+                            🎉 Welcome to Skill Swap! 🎉
                         </h1>
                         <p className="text-lg text-muted-foreground mb-8">
                             You're all set! Start exploring and learning new skills.

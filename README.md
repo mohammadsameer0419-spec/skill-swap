@@ -1,4 +1,4 @@
-# 🚀 Skill Relay Chain
+# 🚀 Skill Swap
 **The Decentralized Skill Economy**
 
 [Live Demo](https://your-vercel-link.vercel.app) | [Video Walkthrough](your-youtube-link) | [Documentation](./docs/SYSTEM_DOCUMENTATION.md)
@@ -6,7 +6,7 @@
 ---
 ## 🎯 Overview
 
-Skill Relay Chain is a peer-to-peer skill exchange platform that enables users to teach and learn skills using a credit-based economy. Built with React, TypeScript, Supabase, and AI-powered matching, it creates a self-sustaining ecosystem where knowledge flows seamlessly between learners and teachers.
+Skill Swap is a peer-to-peer skill exchange platform that enables users to teach and learn skills using a credit-based economy. Built with React, TypeScript, Supabase, and AI-powered matching, it creates a self-sustaining ecosystem where knowledge flows seamlessly between learners and teachers.
 
 ### ✨ Key Features
 
@@ -155,7 +155,7 @@ This project was built for a hackathon. All rights reserved.
 ---
 ## 👥 Team
 
-Built with ❤️ by the Skill Relay Chain team
+Built with ❤️ by the Skill Swap team
 
 ---
 ## 🙏 Acknowledgments

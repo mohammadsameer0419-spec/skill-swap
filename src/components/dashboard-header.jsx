@@ -17,7 +17,7 @@ export function DashboardHeader() {
         className="sticky top-0 z-50 bg-background/80 backdrop-blur-sm border-b border-border">
         <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
           <a href="/" className="flex items-center gap-2">
-            <span className="text-xl font-semibold tracking-tight text-foreground">SkillSwap</span>
+            <span className="text-xl font-semibold tracking-tight text-foreground">Skill Swap</span>
           </a>
 
           <nav className="hidden md:flex items-center gap-6">
